@@ -1,4 +1,4 @@
-#Healthcare Cost Prediction by Linear regression and Decision tree
+**Healthcare Cost Prediction by Linear regression and Decision Tree**
 
 Project Overview
 This project aims to analyze hospital-related data from two CSV files: Hospital General Information and Medicare Inpatient Hospital by Provider and Service 2018. The analysis involves data cleaning, merging, feature selection, and predictive modeling to understand key factors influencing Medicare payment amounts. The project also includes visualizations and evaluation metrics to assess model performance.
