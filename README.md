@@ -1,4 +1,4 @@
-**Healthcare Cost Prediction by Linear regression and Decision Tree**
+# Healthcare Cost Prediction by Linear regression and Decision Tree
 
 Project Overview
 This project aims to analyze hospital-related data from two CSV files: Hospital General Information and Medicare Inpatient Hospital by Provider and Service 2018. The analysis involves data cleaning, merging, feature selection, and predictive modeling to understand key factors influencing Medicare payment amounts. The project also includes visualizations and evaluation metrics to assess model performance.
@@ -8,17 +8,17 @@ Contains general information about hospitals, including hospital type, ownership
 Medicare_Inpatient_Hospital_by_Provider_and_Service_2018_data.csv
 Provides Medicare payment details for various inpatient services offered by hospitals.
 
-**Libraries Used**
+**Libraries Used:**
 The following R libraries are utilized in this project:
-dplyr
-tidyverse
-ggplot2
-caret
-rpart
-rpart.plot
-rattle
-neuralnet
-corrplot
+dplyr,
+tidyverse,
+ggplot2,
+caret,
+rpart,
+rpart.plot,
+rattle,
+neuralnet,
+corrplot,
 reshape2
 
 **Key Steps in the Analysis**
