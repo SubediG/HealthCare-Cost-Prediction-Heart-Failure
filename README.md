@@ -83,6 +83,8 @@ The project evaluates model performance using the following metrics:
 RMSE (Root Mean Square Error): Measures the average prediction error.
 R² (Coefficient of Determination): Indicates the proportion of variance explained by the model.
 
+**How to Use This Repository Clone the repository to your local machine. Ensure that the required R packages are installed. Run the analysis script to reproduce the results.**
+
 **Future Improvements**
 Explore additional machine learning models for improved predictions.
 Perform feature engineering to create new variables that may improve model accuracy.
